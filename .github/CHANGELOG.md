@@ -53,6 +53,9 @@ This release contains contributions from (in alphabetical order):
 
 <h3>Bug fixes</h3>
 
+* Updates plot.py to show graphs when not running as a notebook. 
+  [(#669)](https://github.com/XanaduAI/strawberryfields/pull/669)
+
 * The `TDMProgram.compile_info` and `TDMProgram.target` fields are now set when
   a `TDMProgram` is compiled using the "TDM" compiler.
   [(#659)](https://github.com/XanaduAI/strawberryfields/pull/659)
@@ -91,7 +94,7 @@ This release contains contributions from (in alphabetical order):
 
 This release contains contributions from (in alphabetical order):
 
-Theodor Isacsson
+Theodor Isacsson, Hossein Seifoory
 
 # Release 0.20.0
 
